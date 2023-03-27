@@ -12,6 +12,8 @@ public class CharToCode {
 		       
 			  System.out.printf("%c = %d", characteC,charCode);
 		  System.out.printf("%c = %d", characteC,charCode);
+		 System.out.printf("%c = %d", characteC,charCode);
+		 System.out.printf("%c = %d", characteC,charCode);
 		
 	}
 
